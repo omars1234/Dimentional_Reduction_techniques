@@ -24,3 +24,5 @@ pip install -r requirements.txt
 ```
 
 ## *Project Structure :*
+
+![Logo](Dimentional_Reduction_techniques_map.png)
